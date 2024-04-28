@@ -13,12 +13,7 @@ int main() {
     return 0;
 }
 
-int addfunc( int a, int b)
-{
-        int c = a+b;
-        return c;
-}
-
+>>>>>>> branch1
 //function added in branch1
 int func_add(int a, int b)
 {
